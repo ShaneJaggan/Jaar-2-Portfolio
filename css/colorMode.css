@@ -1,0 +1,52 @@
+.lightMode{
+    background-color: gray;
+    color: black;
+}
+
+.lightMode .bg-dark{
+    background-color: white!important;
+}
+
+.lightMode .text-white{
+    color: black!important;
+}
+
+.redMode{
+    background-color: rgb(54, 2, 2);
+}
+
+.redMode .bg-dark{
+    background-color: firebrick!important;
+}
+
+.redMode .bg-primary{
+    background-color: goldenrod!important;
+}
+
+.redMode .btn-primary{
+    background-color: goldenrod!important;
+}
+
+.blueMode{
+    background-color: midnightblue;
+}
+
+.blueMode .bg-dark{
+    background-color: mediumblue!important;
+}
+
+.purpleMode{
+    background-color: purple;
+}
+
+.purpleMode .bg-dark{
+    background-color: darkviolet!important;
+}
+
+.purpleMode .btn-primary{
+    background-color: purple!important;
+}
+
+.purpleMode .bg-primary{
+    background-color: purple!important;
+}
